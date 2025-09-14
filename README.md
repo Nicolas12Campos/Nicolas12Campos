@@ -106,7 +106,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nicolas12Campos&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicolas12Campos&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="100" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas12Campos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas12Campos&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas12Campos&theme=github-dark-dimmed&bg_color=dark&radius=2&area=false&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
 
